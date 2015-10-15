@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: "Let's Give It A Go"
-datePublished: '2015-10-15T15:59:03.747Z'
-dateModified: '2015-10-15T15:58:33.580Z'
+datePublished: '2015-10-15T21:37:20.820Z'
+dateModified: '2015-10-15T21:37:14.229Z'
 author: []
 related: []
 app_links: []
