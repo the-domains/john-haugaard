@@ -3,23 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Let's Give It A Go"
-datePublished: '2015-10-15T15:55:32.500Z'
-dateModified: '2015-10-15T15:55:20.611Z'
+datePublished: '2015-10-15T15:59:03.747Z'
+dateModified: '2015-10-15T15:58:33.580Z'
 author: []
 related: []
 app_links: []
 title: First Page
+sourcePath: _posts/2015-10-15-first-page.md
+published: true
 authors: []
 publisher:
   name: Wp
   domain: i1.wp.com
   url: 'http://i1.wp.com'
   favicon: 'http://i1.wp.com/favicon.ico'
-sourcePath: _posts/2015-10-15-first-page.md
-published: true
 url: first-page/index.html
 _context: 'http://schema.org'
 _type: MediaObject
