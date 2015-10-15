@@ -1,6 +1,7 @@
 name: John Haugaard
 favicon: null
 layout_spectrum: 0.16697
+typography_spectrum: 0.3945
 cta:
   domain: null
   bucket: null
@@ -14,11 +15,16 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#050505'
+    - '#453c35'
+    - '#d5cbb0'
+    - '#847d6b'
+    - '#2c6165'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 0
 purpose:
   - name: stars
     item: ade965f4-3f17-4d06-8cf3-90dc932ce70c
