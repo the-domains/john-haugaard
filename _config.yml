@@ -21,9 +21,9 @@ color:
     - '#d5cbb0'
     - '#847d6b'
     - '#2c6165'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.8125
-  saturation: 0
+  saturation: 0.4375
   rhythmicContrast: 0
 purpose:
   - name: stars
